@@ -6,7 +6,8 @@ Rapport complet : **Urban Tree Diversity and Heat Stress: A Neighbourhood-Scale 
 
 ## Contenu du dépôt
 - `*.js` : scripts **Google Earth Engine** (traitements + exports)
-- `rapport.pdf` : rapport du projet (méthodes, résultats, cartes)
+- `Urban Tree Diversity and Heat Stress: A
+Neighbourhood-Scale Analysis` : rapport du projet (méthodes, résultats, cartes, etc..)
 
 ## Données / Assets (GEE)
 - Inventaire arbres (patrimoine arboré) - asset GEE
