@@ -2,7 +2,7 @@
 
 Projet de télédétection et d’écologie urbaine visant à analyser la **diversité arborée** (Shannon/Simpson, règle 10-20-30) et la **température de surface (LST)** à l’échelle de **15 quartiers** de Strasbourg (2022–2024).
 
-Rapport complet : **Urban Tree Diversity and Heat Stress: A Neighbourhood-Scale Analysis (Janvier 2026)**. :contentReference[oaicite:0]{index=0}
+Rapport complet : **Urban Tree Diversity and Heat Stress: A Neighbourhood-Scale Analysis (Janvier 2026)**. 
 
 ## Contenu du dépôt
 - `*.js` : scripts **Google Earth Engine** (traitements + exports)
