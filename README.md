@@ -12,7 +12,7 @@ Neighbourhood-Scale Analysis` : rapport du projet (méthodes, résultats, cartes
 ## Données / Assets (GEE)
 - Inventaire arbres (patrimoine arboré) - asset GEE
 - Quartiers Strasbourg (15) - asset GEE
-- Imagerie Landsat 8/9 (LST, été 2022–2024)
+- Imagerie Landsat 8/9 (LST, été 2022-2024)
 - ESA WorldCover v200 (2021) - imperméabilisation
 
 ## Ce que fait le script principal
