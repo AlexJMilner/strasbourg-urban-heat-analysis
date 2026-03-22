@@ -30,3 +30,6 @@ Neighbourhood-Scale Analysis` : rapport du projet (méthodes, résultats, cartes
 
 ## Auteur
 Alexander Milner - Université de Strasbourg
+
+## Contributors
+Ali Kiadarbandsari - Contributed to system design and logic implementation
